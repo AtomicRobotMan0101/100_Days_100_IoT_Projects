@@ -198,6 +198,38 @@ Each project is designed to teach a specific concept, sensor, or IoT technique â
 ation, and more  
 
 ---
+## Sponsors
+
+Thanks to these amazing people for supporting this project:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/x1xhlol">
+        <img src="https://github.com/x1xhlol.png" width="80" style="border-radius: 50%;" alt="Lucas"/>
+        <br/><sub><b>Lucas Valbuena</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AtharvaJaiswal005">
+        <img src="https://github.com/AtharvaJaiswal005.png" width="80" style="border-radius: 50%;" alt="Atharva"/>
+        <br/><sub><b>Atharva Jaiswal</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nizos">
+        <img src="https://github.com/nizos.png" width="80" style="border-radius: 50%;" alt="Nizar Selander"/>
+        <br/><sub><b>Nizar Selander</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/santoshyadavdev">
+        <img src="https://github.com/santoshyadavdev.png" width="80" style="border-radius: 50%;" alt="Santosh"/>
+        <br/><sub><b>Santosh Yadav</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ##  Author
 
